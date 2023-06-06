@@ -1,0 +1,58 @@
+{
+  "8a0adbc14be91bc053945a8b53eebadf3df2358b": {
+    "message": "chore(ci): use canary version of rwjs vite (#8526)",
+    "needsCherryPick": false
+  },
+  "be371fffac4e0b41c34cea44bb24c4142fed8256": {
+    "message": "fix(vite): Tailwind/postcss optimisation issue (#8471)",
+    "needsCherryPick": false
+  },
+  "3ff5c6b860e17cd21c64d8687aec26bf15609cb4": {
+    "message": "chore(ci): deduplicate yarn cache by removing the `set-up-job` action (#8504)",
+    "needsCherryPick": false
+  },
+  "d818939403c614d9bbe4254fb7d3f5369598afd9": {
+    "message": "feat(ci): isolate smoke tests, introduce caching (#8449)",
+    "needsCherryPick": false
+  },
+  "41346ff637a11c39e010e8b298190b0232fb7e2d": {
+    "message": "fix(cli): Fix plugin loading logic for built-in commands (#8494)",
+    "needsCherryPick": false
+  },
+  "8fb0f8633e69777ab9fbf61490deaf67ca0340f1": {
+    "message": "feat(cli): Lazy install storybook (#8454)",
+    "needsCherryPick": false
+  },
+  "6585d4d5322e4896857f98fdab5f80f6e4d5cc3e": {
+    "message": "Make Vite the default bundler (#8301)",
+    "needsCherryPick": false
+  },
+  "78fb9d19ee05da0af5c5b95e66e84ccce67e510b": {
+    "message": "fix(deps): update storybook monorepo to v7.0.18 (#8431)",
+    "needsCherryPick": false
+  },
+  "4598521e4df67b00d2158e50c379a81190245cc4": {
+    "message": "add temporary v6 step for storybook (#8406)",
+    "needsCherryPick": false
+  },
+  "9753b1d36f781aa9d3551687ee48b50792c65486": {
+    "message": "fix(deps): update storybook monorepo to v7.0.17 (#8413)",
+    "needsCherryPick": false
+  },
+  "1e1d67bbba67e34edba316f5e644ddcf1a6f4733": {
+    "message": "fix(deps): update dependency @types/webpack-env to v1.18.1 (#8412)",
+    "needsCherryPick": false
+  },
+  "70b7c4dc3ce6f54017d6ed52a2745ffeaa63a710": {
+    "message": "Reserve h for help, and format docs (#8407)",
+    "needsCherryPick": false
+  },
+  "18074307f157f393125770d183abdeaa0c10f74a": {
+    "message": "fix(deps): update storybook monorepo to v7.0.15 (#8403)",
+    "needsCherryPick": false
+  },
+  "5f03da5f48eac92bf965f43afd032e618b22788d": {
+    "message": "feat(storybook): upgrade to v7 (#8342)",
+    "needsCherryPick": false
+  }
+}
